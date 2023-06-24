@@ -4,7 +4,7 @@ on: Push
 
 Jobs:
     Super-lint:
-        name: Lint code bse
+        name: Lint code base
         runs-on: ubuntu-latest
         steps:
            - name: checkout code
